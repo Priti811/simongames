@@ -1,0 +1,52 @@
+*{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.game-box{
+    /* border: 2px solid black; */
+    height: 30rem;
+    width: 30rem;
+    place-self: center;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+.red{
+    border: 2px solid black;
+    border-radius: 1rem;
+    height: 14rem;
+    width: 14rem;
+    margin: 0.5rem;
+    background-color: coral;
+}
+.blue{
+    border: 2px solid black;
+    border-radius: 1rem;
+    height: 14rem;
+    width: 14rem;
+    margin: 0.5rem;
+    background-color: aqua;
+}
+.yellow{
+    border: 2px solid black;
+    border-radius: 1rem;
+    height: 14rem;
+    width: 14rem;
+    margin: 0.5rem;
+    background-color: yellowgreen;
+}
+.purple{
+    border: 2px solid black;
+    border-radius: 1rem;
+    height: 14rem;
+    width: 14rem;
+    margin: 0.5rem;
+    background-color: rebeccapurple;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: green;
+}
